@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Bootstrap_tutorial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio_template_001_v2"
+	}
+}
